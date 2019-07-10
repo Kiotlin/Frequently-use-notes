@@ -1,5 +1,7 @@
-##申明
- + 本Markdown文件内容摘自[younghz的Markdown库](https:://github.com/younghz/Markdown "Markdown"),本页面仅用作个人方便查找翻阅使用，不用作他用。
+## 申明
++ 本Markdown文件内容摘自[younghz的Markdown库](https:://github.com/younghz/Markdown "Markdown"),本页面仅用作个人方便查找翻阅使用，不用作他用。
+
+
 
 Markdown语法主要分为如下几大部分：
 **标题**，**段落**，**区块引用**，**代码区块**，**强调**，**列表**，**分割线**，**链接**，**图片**，**反斜杠 `\`**，**符号'`'**。
